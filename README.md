@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Duong Thanh Ngoc (Carol) 👋</h1>
+<h3 align="center">Aspiring Business Analyst | Bridging Business Needs with Tech Solutions | DevOps Learner</h3>
 
-<!--
-**miniweeb/miniweeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:duongtngoc.study@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/duong-thanh-ngoc-726b53188/">LinkedIn</a> •
+  <a href="https://github.com/miniweeb">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+ABOUT ME
+- BIT student at UEH with a strong Business Analyst mindset and hands-on development experience.
+- I’m currently learning Business Analysis fundamentals, DevOps foundations.
+- I’m looking to collaborate on BA or application development projects, especially requirements gathering, process modeling, and front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LANGUAGES AND TOOLS
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,php,mysql,sqlserver,git,github,postman,docker,linux" />
+</p>
