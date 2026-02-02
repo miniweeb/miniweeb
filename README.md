@@ -14,5 +14,5 @@ ABOUT ME
 
 LANGUAGES AND TOOLS
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,php,mysql,sqlserver,git,github,docker,booststrap,javascript" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,php,mysql,sqlserver,git,docker,html,css,javascript" />
 </p>
